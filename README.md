@@ -6,4 +6,4 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 
 - Solution URL: https://github.com/Henokked/Four-card-feature
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://henokked.github.io/Four-card-feature/
